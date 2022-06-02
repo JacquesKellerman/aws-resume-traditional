@@ -1,0 +1,6 @@
+# Ignore documentation folder
+Documentation/
+
+# Ignore Word Docs
+*.doc
+*.docx
